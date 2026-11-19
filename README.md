@@ -10,8 +10,6 @@ A responsive business website developed for Direct Cool, an air conditioning and
 
 - [Screenshots](#screenshots)
 
-- [Live Demo](#live-demo)
-
 - [Tech Stack](#tech-stack)
 
 - [Architecture](#architecture)
@@ -53,9 +51,9 @@ The project focuses on providing a straightforward and responsive user experienc
 
 This project was developed as part of a previous professional engagement.
 
-**Project Status:** Completed (Legacy Project)
+**Project Status:** Completed (Legacy Project completed in 2016)
 
-The original company-hosted version is no longer maintained. A portfolio-hosted version remains available for demonstration purposes.
+The original company-hosted version is no longer maintained.
 
 ## Features
 
@@ -92,10 +90,6 @@ The original company-hosted version is no longer maintained. A portfolio-hosted 
 <p align="center">
   <img src="./docs/screenshots/services-3.png" alt="Direct Cool Services 3">
 </p>
-
-**Live Website:** [https://amalk.au/directcool-business-website/](https://amalk.au/directcool-business-website/)
-
-> **Note:** The live demonstration is hosted on my portfolio domain. The original company-hosted version is no longer available.
 
 ## Tech Stack
 
